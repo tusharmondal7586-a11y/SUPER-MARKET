@@ -1,0 +1,6 @@
+{
+  "name": "Supermarket Stories",
+  "description": "Merge products, stock shelves, serve customers, and grow your supermarket empire in this colorful casual simulation game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
